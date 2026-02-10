@@ -1,4 +1,4 @@
-# [S/W 문제해결 기본] 10일차 - 비밀번호
+# swea 스택과재귀1 콜라츠 추측
 import sys
 sys.stdin = open('SSAFY_Algorithm\\4_Stack\Day6\input.txt','r')
 
