@@ -1,0 +1,4 @@
+SB = ["BWBWBWBW","WBWBWBWB"] * 4
+SW = ["WBWBWBWB","BWBWBWBW"] * 4
+
+print(SB[0][0])
